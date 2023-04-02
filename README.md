@@ -6,9 +6,9 @@ This repo records my lab work in the computer graphics course. It is one of my f
 
 All labs is written to run on Qt Creator. However, you can also simply deem them as references and write your own code based on C++ platforms. 
 
-I will briefly describe the requirements of each lab as follows, adding some key points that I find are important or difficult to understand. I strongly recommend you to think thoroughly by yourself first, and try not to do meaningless copy-and-pastes.
+I will briefly describe the requirements of each lab as follows, adding some key points that I find are important or difficult to understand. I think it is important to explore the labs thoroughly by yourself first. Please try not to do meaningless copy-and-pastes.
 
-Also, these codes are not flawless. Please dialectically treat them and feel free to raise any issues. You are also welcome to contact me through Email(Tsukasazyin@gmail.com).
+Also, these codes are not flawless. Please feel free to raise any issues. You are also welcome to contact me through Email(Tsukasazyin@gmail.com).
 
 Hope you enjoy learning computer graphics!
 
